@@ -1,0 +1,18 @@
+
+DMK11               KARTHIK             DMK                      1                     1                     100.000000
+
+ADM12               DEEPAK              ADMK                     1                     0                     0.000000
+
+NT13                BALA                NT                       1                     0                     0.000000
+
+DMK11               KARTHIK             DMK                      1                     1                     0.000000
+
+ADM12               DEEPAK              ADMK                     1                     0                     0.000000
+
+NT13                BALA                NT                       1                     0                     0.000000
+
+DMK11               KARTHIK             DMK                      1                     1                     50.000000
+
+ADM12               DEEPAK              ADMK                     1                     1                     50.000000
+
+NT13                BALA                NT                       1                     0                     0.000000
